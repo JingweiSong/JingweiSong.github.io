@@ -45,12 +45,11 @@ News
 [20 November 2016] Our paper “Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang and Gamini Dissanayake. 3D Shape Recovery of Deformable Soft-tissue with Computed Tomography and Depth Scan ” is accepted by Australasian Conference on Robotics and Automation (ACRA2016).  
 
 Research projects
----
-"Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract"  
-<img width="150" height="100" src='/images/paper_EWSA2021.png'>  
-<iframe width="150" height="100" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
-collection: portfolio
----
+---  
+"Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract  
+<img width="300" src='/images/paper_EWSA2021.png'>  
+<iframe width="150"  src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+---  
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
