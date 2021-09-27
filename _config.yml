@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             :# "Biography"
+  name             :
   avatar           : "Photo.png"
-  bio              : #" "
+  bio              :
   location         : "Michigan"
   employer         :
   pubmed           : ""
