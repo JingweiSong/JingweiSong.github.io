@@ -52,7 +52,13 @@ Combining deep learning with geometric features for image-based localization in 
 --- 
 ---  
 MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing [Paper](https://arxiv.org/abs/1803.02009)  
-<img width="300" src='/images/paper_EWSA2021.png'>  
+<img width="300" src='/images/paper_IROS2018.JPG'>  
+<iframe width="150" height = "100"   src="https://www.youtube.com/embed/2pXokldQBWM " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+---  
+---  
+Efficient two step optimization for large embedded deformation graph based SLAM
+ [Paper](https://arxiv.org/abs/1803.02009)  
+<img width="300" src='/images/paper_TGRS2020.jpg'>  
 <iframe width="150" height = "100"   src="https://www.youtube.com/embed/2pXokldQBWM " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
 ---  
 ---    
