@@ -13,7 +13,7 @@ About me
 Jingwei Song is a Research Associate with the Department of Naval Architecture and Marine Engineering, University of Michigan, Ann Arbor, MI, USA. His research interests include computer vision, simultaneous localization and mapping, and robotics. Before joining Umich, he received the B.E. degree in remote sensing science and technology from Wuhan University, Wuhan, China, in 2012, the master’s degree in cartography and geographic information system from the Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China, in 2015, and the Ph.D. degree in center of autonomous system from the University of Technology Sydney, Ultimo, NSW, Australia, in 2020.  
   
 Download: [CV](https://drive.google.com/file/d/1xKDyYXOymZGwYoExTRUHCXVpqKsnVi3b/view?usp=sharing)  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 News
 ======
 [July 2021] The paper ‘J Song, M Patel, A Girgensohn, C Kim. “Combining Deep Learning with Geometric Features for Image based Localization in the Gastrointestinal Tract.” has been accepted by Expert systems and applications (Q1 journal) for publication  
