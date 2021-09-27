@@ -46,16 +46,17 @@ News
 
 Research projects
 ---  
-Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract  
+Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract [Paper](https://doi.org/10.1016/j.eswa.2021.115631)  
 <img width="300" src='/images/paper_EWSA2021.png'>  
 <iframe width="150"  src="https://www.youtube.com/embed/J8Gab1t4JQA " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
 ---  
 ---  
-Curved buildings reconstruction from airborne LiDAR data by matching and deforming geometric primitives 
-<img width="300" src='/images/paper_EWSA2021.png'>  
-<iframe width="150" height="100"  src="https://www.youtube.com/embed/J8Gab1t4JQA " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+Curved buildings reconstruction from airborne LiDAR data by matching and deforming geometric primitives [Paper](https://arxiv.org/pdf/2003.09934.pdf)  
+<img width="300" src='/images/paper_TGRS2020.png'>  
 ---  
-
+---  
+Uncertainty Quantification for Hyperspectral Image Denoising Frameworks based on Low-rank Matrix Approximation [Paper](https://arxiv.org/abs/2004.10959)  
+---  
 
 Site-wide configuration
 ------
