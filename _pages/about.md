@@ -46,6 +46,7 @@ News
 
 Selected research projects
 ---  
+For full publication list, please go to [CV](https://drive.google.com/file/d/1xKDyYXOymZGwYoExTRUHCXVpqKsnVi3b/view?usp=sharing) or the [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rf8d0o4AAAAJ&view_op=list_works&sortby=pubdate)  
 Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract (Jingwei Song, Mitesh Patel, Andreas Girgensohn, Chelhwon Kim) [Paper](https://doi.org/10.1016/j.eswa.2021.115631)  
 <img width="600" src='/images/paper_EWSA2021.png'>  
 <iframe width="100" height = "50"  src="https://www.youtube.com/embed/J8Gab1t4JQA " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
@@ -95,6 +96,7 @@ An improved neural network for regional giant panda habitat suitability mapping:
 ---  
 An improved neural network for regional giant panda habitat suitability mapping: A case study in Ya’an prefecture (Jingwei Song,Xinyuan Wang,Ying Liao,Jing Zhen,Natarajan Ishwaran ,Huadong Guo,Ruixia Yang,Chuansheng Liu,Chun Chang,Xin Zong 1,2) [Paper](https://doi.org/10.3390/su6074059)  
 --- 
+
 
 
 Contact
