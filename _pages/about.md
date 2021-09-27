@@ -47,8 +47,8 @@ News
 Research projects
 ---
 "Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract"  
-<img width="150" height="100" src='/images/paper_EWSA2021.png'>
-<iframe width="150" height="100" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+<img width="150" height="100" src='/images/paper_EWSA2021.png'>  
+<iframe width="150" height="100" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
 collection: portfolio
 ---
 ======
