@@ -46,34 +46,55 @@ News
 
 Selected research projects
 ---  
-Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract [Paper](https://doi.org/10.1016/j.eswa.2021.115631)  
-<img width="300" src='/images/paper_EWSA2021.png'>  
-<iframe width="150" height = "100"  src="https://www.youtube.com/embed/J8Gab1t4JQA " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract (Jingwei Song, Mitesh Patel, Andreas Girgensohn, Chelhwon Kim) [Paper](https://doi.org/10.1016/j.eswa.2021.115631)  
+<img width="600" src='/images/paper_EWSA2021.png'>  
+<iframe width="100" height = "50"  src="https://www.youtube.com/embed/J8Gab1t4JQA " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
 --- 
 ---  
-MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing [Paper](https://arxiv.org/abs/1803.02009)  
-<img width="300" src='/images/paper_IROS2018.JPG'>  
-<iframe width="150" height = "100"   src="https://www.youtube.com/embed/2pXokldQBWM " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing (Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang, Gamini Dissanayake) [Paper](https://arxiv.org/abs/1803.02009)  
+<img width="600" src='/images/paper_IROS2018.JPG'>  
+<iframe width="100" height = "50"   src="https://www.youtube.com/embed/2pXokldQBWM " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
 ---  
 ---  
-Efficient two step optimization for large embedded deformation graph based SLAM
+Efficient two step optimization for large embedded deformation graph based SLAM (Jingwei Song, Fang Bai, Liang Zhao, Shoudong Huang, Rong Xiong)
  [Paper](https://arxiv.org/abs/1803.02009)  
-<img width="300" src='/images/paper_TGRS2020.jpg'>  
-<iframe width="150" height = "100"   src="https://www.youtube.com/embed/7b7giRibvRI " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+<img width="600" src='/images/Paper_ICRA2020.JPG'>  
+<iframe width="100" height = "50"   src="https://www.youtube.com/embed/7b7giRibvRI " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
 ---  
 ---  
-Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery
+Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery (Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang, Gamini Dissanayake)
  [Paper](https://arxiv.org/abs/2003.10867)  
-<img width="300" src='/images/paper_TGRS2020.jpg'>  
-<iframe width="150" height = "100"   src="https://www.youtube.com/embed/QL1uUHJDZ1E " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+<img width="600" src='/images/paper_IROS2017.JPG'>  
+<iframe width="100" height = "50"   src="https://www.youtube.com/embed/QL1uUHJDZ1E " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
 ---  
 ---    
-Curved buildings reconstruction from airborne LiDAR data by matching and deforming geometric primitives [Paper](https://arxiv.org/pdf/2003.09934.pdf)  
-<img width="300" src='/images/paper_TGRS2020.jpg'>  
+Curved buildings reconstruction from airborne LiDAR data by matching and deforming geometric primitives (Jingwei Song, Shaobo Xia, Jun Wang, Dong Chen) [Paper](https://arxiv.org/pdf/2003.09934.pdf)  
+<img width="600" src='/images/paper_TGRS2020.jpg'>  
 ---  
 ---  
-Uncertainty Quantification for Hyperspectral Image Denoising Frameworks based on Low-rank Matrix Approximation [Paper](https://arxiv.org/abs/2004.10959)  
+Uncertainty Quantification for Hyperspectral Image Denoising Frameworks based on Low-rank Matrix Approximation (Jingwei Song, Shaobo Xia, Jun Wang, Mitesh Patel, Dong Chen) [Paper](https://arxiv.org/abs/2004.10959)  
 ---  
+---  
+A submap joining algorithm for 3d reconstruction using an rgb-d camera based on point and plane features (Jun Wang, Jingwei Song, Liang Zhao, Shoudong Huang, RongXiong) [Paper](https://doi.org/10.1016/j.robot.2019.05.002)  
+--- 
+---  
+Convergence and consistency analysis for a 3-D invariant-EKF SLAM (Teng Zhang, Kanzhi Wu, Jingwei Song, Shoudong Huang, Gamini Dissanayake) [Paper](https://arxiv.org/abs/1702.06680)  
+--- 
+---  
+Road network extraction: A neural-dynamic framework based on deep learning and a finite state machine (Jun Wang,Jingwei Song,Mingquan Chen,Zhi Yang) [Paper](https://doi.org/10.1080/01431161.2015.1054049)  
+--- 
+---  
+Extraction and reconstruction of curved surface buildings by contour clustering using airborne LiDAR data (Jingwei Song,Jianwei Wu, Yongyao Jiang) [Paper](https://doi.org/10.1016/j.ijleo.2015.01.011)  
+--- 
+---  
+A multistep chaotic model for municipal solid waste generation prediction (Jingwei Song,Jiaying He) [Paper](https://www.liebertpub.com/doi/abs/10.1089/ees.2014.0031)  
+--- 
+---  
+An improved neural network for regional giant panda habitat suitability mapping: A case study in Ya’an prefecture (Jingwei Song,Xinyuan Wang,Ying Liao,Jing Zhen,Natarajan Ishwaran ,Huadong Guo,Ruixia Yang,Chuansheng Liu,Chun Chang,Xin Zong 1,2) [Paper](https://doi.org/10.3390/su6074059)  
+--- 
+---  
+An improved neural network for regional giant panda habitat suitability mapping: A case study in Ya’an prefecture (Jingwei Song,Xinyuan Wang,Ying Liao,Jing Zhen,Natarajan Ishwaran ,Huadong Guo,Ruixia Yang,Chuansheng Liu,Chun Chang,Xin Zong 1,2) [Paper](https://doi.org/10.3390/su6074059)  
+--- 
 
 
 Contact
