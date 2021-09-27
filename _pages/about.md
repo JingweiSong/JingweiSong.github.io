@@ -48,7 +48,7 @@ Research projects
 ---  
 "Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract  
 <img width="300" src='/images/paper_EWSA2021.png'>  
-<iframe width="150"  src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+<iframe width="150"  src="https://www.youtube.com/embed/J8Gab1t4JQA " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
 ---  
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
