@@ -39,7 +39,11 @@ News
 
 Selected research projects
 ---  
-For full publication list, please go to [CV](https://drive.google.com/file/d/1xKDyYXOymZGwYoExTRUHCXVpqKsnVi3b/view?usp=sharing) or the [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rf8d0o4AAAAJ&view_op=list_works&sortby=pubdate)  
+For full publication list, please go to [CV](/files/Jingwei_CV.pdf) or the [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rf8d0o4AAAAJ&view_op=list_works&sortby=pubdate)  
+Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and Song Jingwei, Optical Flow-Based Vascular Respiratory Motion Compensation in IEEE Robotics and Automation Letters, vol. 8, no. 11, pp. 6987-6994, Nov. 2023, doi: 10.1109/LRA.2023.3313936. [Paper](https://ieeexplore.ieee.org/abstract/document/10246381)[Arxiv](https://arxiv.org/abs/2308.16451)[Video](https://youtu.be/9T_bU6NhZwg)
+<img width="200" src='/images/RAL2023.png'>  
+
+
 Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract (Jingwei Song, Mitesh Patel, Andreas Girgensohn, Chelhwon Kim) [Paper](https://doi.org/10.1016/j.eswa.2021.115631)  
 <img width="800" src='/images/paper_EWSA2021.png'>  
 <iframe width="80" height = "50"  src="https://www.youtube.com/embed/J8Gab1t4JQA " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
