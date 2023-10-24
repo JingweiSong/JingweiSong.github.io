@@ -65,24 +65,15 @@ Song Jingwei, Patel Mitesh, Girgensohn Andreas and Kim Chelhwon. Combining deep 
 <img width="400" src='/images/paper_EWSA2021.png'>  
 
 
-Song Jingwei, Bai Fang, Zhao Liang, Huang Shoudong and Xiong Rong. Efficient two step optimization for large embedded deformation graph based SLAM, 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9419-9425, doi: 10.1109/ICRA40945.2020.9196930. [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/1906.08477)]   
+Song Jingwei, Bai Fang, Zhao Liang, Huang Shoudong and Xiong Rong. Efficient two step optimization for large embedded deformation graph based SLAM, 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9419-9425, doi: 10.1109/ICRA40945.2020.9196930. [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/1906.08477)] [[Video](https://youtu.be/7b7giRibvRI)]   
 <img width="400" src='/images/Paper_ICRA2020.JPG'>  
 
 
 
-
-
---- 
-MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing (Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang, Gamini Dissanayake) [Paper](https://arxiv.org/abs/1803.02009)  
-<img width="800" src='/images/paper_IROS2018.JPG'>  
-<iframe width="80" height = "50"   src="https://www.youtube.com/embed/2pXokldQBWM " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
----  
-Efficient two step optimization for large embedded deformation graph based SLAM (Jingwei Song, Fang Bai, Liang Zhao, Shoudong Huang, Rong Xiong)
- [Paper](https://arxiv.org/abs/1803.02009)  
-<img width="800" src='/images/Paper_ICRA2020.JPG'>  
-<iframe width="80" height = "50"   src="https://www.youtube.com/embed/7b7giRibvRI " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+Song Jingwei, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2018 (RAL-IROS option) [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/1803.02009)] [[Video](https://youtu.be/2pXokldQBWM)]    
+<img width="400" src='/images/paper_IROS2018.JPG'>  
  
----  
+
 Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery (Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang, Gamini Dissanayake)
  [Paper](https://arxiv.org/abs/2003.10867)  
 <img width="800" src='/images/paper_IROS2017.JPG'>  
