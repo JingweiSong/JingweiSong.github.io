@@ -16,32 +16,23 @@ Download: [CV](https://drive.google.com/file/d/1xKDyYXOymZGwYoExTRUHCXVpqKsnVi3b
 
 News
 ======
+[Aug 2023] One paper accepted by IEEE Robotics and Automation Letters.
+[Oct 2022] The long paper 'BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching' is published by IEEE Transactions on Robotics. It brief paper 'Bayesian Dense Inverse Searching Algorithm for Real-Time Stereo Matching in Minimally Invasive Surgery' is published by MICCAI (International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022)
+[July 2022] I serve as a senior software engineer in United Imaging Research Institute of Intelligent Imaging, Beijing 100144, China
+[May 2022] 1 paper accepted by IEEE Robotics and Automation Letters and 1 paper accepted by ICRA2022.
 [July 2021] The paper ‘J Song, M Patel, A Girgensohn, C Kim. “Combining Deep Learning with Geometric Features for Image based Localization in the Gastrointestinal Tract.” has been accepted by Expert systems and applications (Q1 journal) for publication  
-
 [July 2020] I serve as the research associate in A/Prof.  Maani Ghaffari‘s lab (Computational Autonomy and Robotics Laboratory) for 2 years.  
-
 [June 2019] I will work with Dr. Mitesh Patel in lab FXPALfor 6 months.  
-
 [June 2018] Our paper ‘MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing’ has been accepted by IEEE/RSJ IEEE Robotics and Automation Letters (RAL with IROS option). I will attend IROS held in Madrid in 1-5 Oct. Media link  
-
 [15 June 2018] I have won first prize of the showcase competition in FEIT (Faculty of Engineering and Information Technology, UTS).  
-
 [August 2017] I’m awarded IROS Travel Award funded by the IEEE Robotics and Automation Society!  
-
 [July 2017] Our IROS accepted paper “Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang and Gamini Dissanayake. Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. ” is accepted by IEEE/RSJ IEEE Robotics and Automation Letters (RAL with IROS option)  
-
 [June 2017] Have a wonderful journey to (Computer Assisted Radiology and  Surgery 2017) Barcelona and (Hamlyn Symposium on Medical Robot 2017) London. Meet lots of nice scholars and friends.  I was listed in CARS2017 daily news CARS 2017 Daily News  
-
-[15 June 2017] I have won second prize of the showcase competition. Thank you Shoudong, Liang, Karthick, Jun, Cedric, Teresa for your very helpful suggestions  Research Showcase
-  
+[15 June 2017] I have won second prize of the showcase competition. Thank you Shoudong, Liang, Karthick, Jun, Cedric, Teresa for your very helpful suggestions  Research Showcase  
 [15 June 2017] Our paper “Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang and Gamini Dissanayake. Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. ” is accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems, 2017 (IROS2017)  
-
 [15 June 2017] Our paper “Jun Wang, Jingwei Song, Liang Zhao and Shoudong Huang. A Submap Joining Based RGB-D SLAM Algorithm using Planes as Features. ” is accepted by 11th Conference on Field and Service Robotics (FSR2017)  
-
 [May 2017] Our abstract paper “Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang and Gamini Dissanayake. Robust Shape Recovery of Deformable Soft-tissue Based on Information from Stereo Scope for Minimal Invasive Surgery. ” is accepted by Hamlyn Symposium on Medical Robotics 2017  
-
 [Feb 2017] Our abstract paper “Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. Computer Assisted Radiology and Surgery (CARS2017) ” is accepted by Computer Assisted Radiology and  Surgery 2017 (CARS2017)  
-
 [20 November 2016] Our paper “Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang and Gamini Dissanayake. 3D Shape Recovery of Deformable Soft-tissue with Computed Tomography and Depth Scan ” is accepted by Australasian Conference on Robotics and Automation (ACRA2016).  
 
 Selected research projects
