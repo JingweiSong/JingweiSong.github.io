@@ -18,10 +18,10 @@ Download: [CV](https://drive.google.com/file/d/1xKDyYXOymZGwYoExTRUHCXVpqKsnVi3b
 
 News
 ======
-[Aug 2023] One paper accepted by IEEE Robotics and Automation Letters.
-[Oct 2022] The long paper 'BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching' is published by IEEE Transactions on Robotics. It brief paper 'Bayesian Dense Inverse Searching Algorithm for Real-Time Stereo Matching in Minimally Invasive Surgery' is published by MICCAI (International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022)
-[July 2022] I serve as a senior software engineer in United Imaging Research Institute of Intelligent Imaging, Beijing 100144, China
-[May 2022] 1 paper accepted by IEEE Robotics and Automation Letters and 1 paper accepted by ICRA2022.
+[Aug 2023] One paper accepted by IEEE Robotics and Automation Letters.  
+[Oct 2022] The long paper 'BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching' is published by IEEE Transactions on Robotics. It brief paper 'Bayesian Dense Inverse Searching Algorithm for Real-Time Stereo Matching in Minimally Invasive Surgery' is published by MICCAI (International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022)  
+[July 2022] I serve as a senior software engineer in United Imaging Research Institute of Intelligent Imaging, Beijing 100144, China  
+[May 2022] 1 paper accepted by IEEE Robotics and Automation Letters and 1 paper accepted by ICRA2022.  
 [July 2021] The paper ‘J Song, M Patel, A Girgensohn, C Kim. “Combining Deep Learning with Geometric Features for Image based Localization in the Gastrointestinal Tract.” has been accepted by Expert systems and applications (Q1 journal) for publication  
 [July 2020] I serve as the research associate in A/Prof.  Maani Ghaffari‘s lab (Computational Autonomy and Robotics Laboratory) for 2 years.  
 [June 2019] I will work with Dr. Mitesh Patel in lab FXPALfor 6 months.  
