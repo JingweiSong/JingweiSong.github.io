@@ -10,7 +10,9 @@ redirect_from:
 
 About me
 ======
-Jingwei Song is a Research Associate with the Department of Naval Architecture and Marine Engineering, University of Michigan, Ann Arbor, MI, USA. His research interests include computer vision, simultaneous localization and mapping, and robotics. Before joining Umich, he received the B.E. degree in remote sensing science and technology from Wuhan University, Wuhan, China, in 2012, the master’s degree in cartography and geographic information system from the Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China, in 2015, and the Ph.D. degree in center of autonomous system from the University of Technology Sydney, Ultimo, NSW, Australia, in 2020.  
+Jingwei Song is a senior software enginner in United Imaging Research Institute of Intelligent Imaging, Beijing 100144, China. Before that, he was a Research Associate with the Department of Naval Architecture and Marine Engineering, University of Michigan, Ann Arbor, MI, USA. He received the Ph.D. degree in center of autonomous system from the University of Technology Sydney, Ultimo, NSW, Australia, in 2020.  
+
+His research interests include computer vision, simultaneous localization and mapping, and robotics.
   
 Download: [CV](https://drive.google.com/file/d/1xKDyYXOymZGwYoExTRUHCXVpqKsnVi3b/view?usp=sharing)  
 
