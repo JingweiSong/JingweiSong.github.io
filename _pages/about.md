@@ -48,6 +48,12 @@ Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and **Song Jingwei**
 <img width="400" src='/images/Paper_TRO2022.JPG'>  
 
 
+
+Chien Erh Lin, **Song Jingwei**, Ray Zhang, Minghan Zhu and Ghaffari Maani. Se (3)-equivariant point cloud-based place recognition. In Conference on Robot Learning (pp. 1520-1530). PMLR **2023**. [[Paper](https://proceedings.mlr.press/v205/lin23a/lin23a.pdf)] [[Code](https://github.com/UMich-CURLY/se3_equivariant_place_recognition)]  
+<img width="400" src='/images/Paper_CoRL2023.jpg'> 
+
+
+
 **Song Jingwei**, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani. Bayesian dense inverse searching algorithm for real-time stereo matching in minimally invasive surgery[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, **2022**: 333-344. (Oral presentation) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_32)] [[Arxiv](https://arxiv.org/abs/2106.07136)] [[Video](https://youtu.be/k88vsRg9LrU)][[Code](https://github.com/JingweiSong/BDIS)]  
 <img width="400" src='/images/Paper_MICCAI2022.JPG'>  
 
