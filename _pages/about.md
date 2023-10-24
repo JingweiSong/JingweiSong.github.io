@@ -71,11 +71,11 @@ Song Jingwei, Bai Fang, Zhao Liang, Huang Shoudong and Xiong Rong. Efficient two
 
 
 Song Jingwei, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2018 (RAL-IROS option) [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/1803.02009)] [[Video](https://youtu.be/2pXokldQBWM)]    
-<img width="400" src='/images/paper_IROS2018.JPG'>  
+<img width="400" src='/images/Paper_IROS2018.JPG'>  
 
 
 Song Jingwei, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2017 (RAL-IROS option) [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/2003.10867)] [[Video](https://youtu.be/2pXokldQBWM)]    
-<img width="400" src='/images/paper_IROS2018.JPG'>  
+<img width="400" src='/images/Paper_IROS2017.JPG'>  
  
 
 Song Jingwei, Xia Shaobo, Wang Jun, Patel Mitesh and Chen Dong, Uncertainty Quantification of Hyperspectral Image Denoising Frameworks Based on Sliding-Window Low-Rank Matrix Approximation, in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-12, 2022, Art no. 5504212, doi: 10.1109/TGRS.2021.3065570. [[Paper]([https://ieeexplore.ieee.org/document/9386239))] [[Arxiv](https://arxiv.org/abs/2003.10867)]     
