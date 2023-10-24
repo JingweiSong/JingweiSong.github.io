@@ -61,9 +61,17 @@ Song Jingwei, Patel Mitesh and Ghaffari Maani. Fusing Convolutional Neural Netwo
 
 
 
-Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract (Jingwei Song, Mitesh Patel, Andreas Girgensohn, Chelhwon Kim) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_32)] [[Arxiv](https://arxiv.org/abs/2106.07136)] [[Video](https://youtu.be/k88vsRg9LrU)][[Code](https://github.com/JingweiSong/BDIS-v2)]   
+Song Jingwei, Patel Mitesh, Girgensohn Andreas and Kim Chelhwon. Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract[J]. Expert Systems with Applications, 2021, 185: 115631. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417421010253)] [[Arxiv](https://arxiv.org/abs/2005.05481)] [[Video](https://youtu.be/J8Gab1t4JQA)]   
 <img width="400" src='/images/paper_EWSA2021.png'>  
-<iframe width="80" height = "50"  src="https://www.youtube.com/embed/J8Gab1t4JQA " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+
+
+Song Jingwei, Bai Fang, Zhao Liang, Huang Shoudong and Xiong Rong. Efficient two step optimization for large embedded deformation graph based SLAM, 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9419-9425, doi: 10.1109/ICRA40945.2020.9196930. [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/1906.08477)]   
+<img width="400" src='/images/Paper_ICRA2020.JPG'>  
+
+
+
+
+
 --- 
 MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing (Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang, Gamini Dissanayake) [Paper](https://arxiv.org/abs/1803.02009)  
 <img width="800" src='/images/paper_IROS2018.JPG'>  
