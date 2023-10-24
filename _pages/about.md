@@ -44,6 +44,15 @@ Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and Song Jingwei, Op
 <img width="200" src='/images/RAL2023.png'>  
 
 
+Song Jingwei, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani.  BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching, in IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1388-1406, April 2023. [Paper](https://ieeexplore.ieee.org/abstract/document/10246381)[Arxiv](https://arxiv.org/abs/2308.16451)[Video](https://youtu.be/MTurBOUDdB0)[Code](https://github.com/JingweiSong/BDIS)
+<img width="200" src='/images/RAL2023.png'>  
+
+
+Song Jingwei, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani. Bayesian dense inverse searching algorithm for real-time stereo matching in minimally invasive surgery[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2022: 333-344. (Oral presentation) [Paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_32)[Arxiv](https://arxiv.org/abs/2106.07136)[Video](https://youtu.be/k88vsRg9LrU)[Code](https://github.com/JingweiSong/BDIS-v2)
+<img width="200" src='/images/RAL2023.png'>  
+-------------------------
+
+
 Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract (Jingwei Song, Mitesh Patel, Andreas Girgensohn, Chelhwon Kim) [Paper](https://doi.org/10.1016/j.eswa.2021.115631)  
 <img width="800" src='/images/paper_EWSA2021.png'>  
 <iframe width="80" height = "50"  src="https://www.youtube.com/embed/J8Gab1t4JQA " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
