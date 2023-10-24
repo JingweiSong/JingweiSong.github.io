@@ -53,7 +53,8 @@ Song Jingwei, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani. Bayesian dense inverse
 
 
 Song Jingwei, Patel Mitesh, M. Jasour Ashkan and Ghaffari Maani, A Closed-Form Uncertainty Propagation in Non-Rigid Structure From Motion, in IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 6479-6486, July 2022, doi: 10.1109/LRA.2022.3173733.  [[Paper](https://ieeexplore.ieee.org/document/9772282)] [[Arxiv](https://arxiv.org/pdf/2005.04810)] [[Video](https://youtu.be/UFS8txdn68U)][[Code](https://github.com/JingweiSong/NRSfM_uncertainty)]  
-<img width="400" src='/images/Paper_RAL2022'>    
+<img width="400" src='/images/Paper_RAL2022.JPG'>    
+
 
 Song Jingwei, Patel Mitesh and Ghaffari Maani. Fusing Convolutional Neural Network and Geometric Constraint for Image-Based Indoor Localization, in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 1674-1681, April 2022, doi: 10.1109/LRA.2022.3140832.  [[Paper](https://ieeexplore.ieee.org/document/9672748)] [[Arxiv](https://arxiv.org/abs/2201.01408)] [[Video](https://youtu.be/EQEMY-0zLlI)]  
 <img width="400" src='/images/Paper_ICRA2022.JPG'>   
