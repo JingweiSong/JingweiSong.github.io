@@ -40,54 +40,54 @@ News
 Selected research projects
 ---  
 For full publication list, please go to [[CV](/files/Jingwei_CV.pdf)] or the [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rf8d0o4AAAAJ&view_op=list_works&sortby=pubdate)]  
-Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and Song Jingwei, Optical Flow-Based Vascular Respiratory Motion Compensation in IEEE Robotics and Automation Letters, vol. 8, no. 11, pp. 6987-6994, Nov. 2023, doi: 10.1109/LRA.2023.3313936. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2308.16451)] [[Video](https://youtu.be/9T_bU6NhZwg)]  
+Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and **Song Jingwei**, Optical Flow-Based Vascular Respiratory Motion Compensation in IEEE Robotics and Automation Letters, vol. 8, no. 11, pp. 6987-6994, Nov. 2023, doi: 10.1109/LRA.2023.3313936. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2308.16451)] [[Video](https://youtu.be/9T_bU6NhZwg)]  
 <img width="400" src='/images/RAL2023.JPG'>  
 
 
-Song Jingwei, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani.  BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching, in IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1388-1406, April 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2205.03133)] [[Video](https://youtu.be/MTurBOUDdB0)] [[Code](https://github.com/JingweiSong/BDIS-v2)]  
+**Song Jingwei**, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani.  BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching, in IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1388-1406, April 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2205.03133)] [[Video](https://youtu.be/MTurBOUDdB0)] [[Code](https://github.com/JingweiSong/BDIS-v2)]  
 <img width="400" src='/images/Paper_TRO2022.JPG'>  
 
 
-Song Jingwei, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani. Bayesian dense inverse searching algorithm for real-time stereo matching in minimally invasive surgery[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2022: 333-344. (Oral presentation) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_32)] [[Arxiv](https://arxiv.org/abs/2106.07136)] [[Video](https://youtu.be/k88vsRg9LrU)][[Code](https://github.com/JingweiSong/BDIS)]  
+**Song Jingwei**, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani. Bayesian dense inverse searching algorithm for real-time stereo matching in minimally invasive surgery[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2022: 333-344. (Oral presentation) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_32)] [[Arxiv](https://arxiv.org/abs/2106.07136)] [[Video](https://youtu.be/k88vsRg9LrU)][[Code](https://github.com/JingweiSong/BDIS)]  
 <img width="400" src='/images/Paper_MICCAI2022.JPG'>  
 
 
-Song Jingwei, Patel Mitesh, M. Jasour Ashkan and Ghaffari Maani, A Closed-Form Uncertainty Propagation in Non-Rigid Structure From Motion, in IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 6479-6486, July 2022, doi: 10.1109/LRA.2022.3173733.  [[Paper](https://ieeexplore.ieee.org/document/9772282)] [[Arxiv](https://arxiv.org/pdf/2005.04810)] [[Video](https://youtu.be/UFS8txdn68U)][[Code](https://github.com/JingweiSong/NRSfM_uncertainty)]  
+**Song Jingwei**, Patel Mitesh, M. Jasour Ashkan and Ghaffari Maani, A Closed-Form Uncertainty Propagation in Non-Rigid Structure From Motion, in IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 6479-6486, July 2022, doi: 10.1109/LRA.2022.3173733.  [[Paper](https://ieeexplore.ieee.org/document/9772282)] [[Arxiv](https://arxiv.org/pdf/2005.04810)] [[Video](https://youtu.be/UFS8txdn68U)][[Code](https://github.com/JingweiSong/NRSfM_uncertainty)]  
 <img width="400" src='/images/Paper_RAL2022.JPG'>    
 
 
-Song Jingwei, Patel Mitesh and Ghaffari Maani. Fusing Convolutional Neural Network and Geometric Constraint for Image-Based Indoor Localization, in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 1674-1681, April 2022, doi: 10.1109/LRA.2022.3140832.  [[Paper](https://ieeexplore.ieee.org/document/9672748)] [[Arxiv](https://arxiv.org/abs/2201.01408)] [[Video](https://youtu.be/EQEMY-0zLlI)]  
+**Song Jingwei**, Patel Mitesh and Ghaffari Maani. Fusing Convolutional Neural Network and Geometric Constraint for Image-Based Indoor Localization, in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 1674-1681, April 2022, doi: 10.1109/LRA.2022.3140832.  [[Paper](https://ieeexplore.ieee.org/document/9672748)] [[Arxiv](https://arxiv.org/abs/2201.01408)] [[Video](https://youtu.be/EQEMY-0zLlI)]  
 <img width="400" src='/images/Paper_ICRA2022.JPG'>   
 
 
 
-Song Jingwei, Patel Mitesh, Girgensohn Andreas and Kim Chelhwon. Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract[J]. Expert Systems with Applications, 2021, 185: 115631. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417421010253)] [[Arxiv](https://arxiv.org/abs/2005.05481)] [[Video](https://youtu.be/J8Gab1t4JQA)]   
+**Song Jingwei**, Patel Mitesh, Girgensohn Andreas and Kim Chelhwon. Combining deep learning with geometric features for image-based localization in the Gastrointestinal tract[J]. Expert Systems with Applications, 2021, 185: 115631. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417421010253)] [[Arxiv](https://arxiv.org/abs/2005.05481)] [[Video](https://youtu.be/J8Gab1t4JQA)]   
 <img width="400" src='/images/paper_EWSA2021.png'>  
 
 
-Song Jingwei, Bai Fang, Zhao Liang, Huang Shoudong and Xiong Rong. Efficient two step optimization for large embedded deformation graph based SLAM, 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9419-9425, doi: 10.1109/ICRA40945.2020.9196930. [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/1906.08477)] [[Video](https://youtu.be/7b7giRibvRI)]   
+**Song Jingwei**, Bai Fang, Zhao Liang, Huang Shoudong and Xiong Rong. Efficient two step optimization for large embedded deformation graph based SLAM, 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 9419-9425, doi: 10.1109/ICRA40945.2020.9196930. [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/1906.08477)] [[Video](https://youtu.be/7b7giRibvRI)]   
 <img width="400" src='/images/Paper_ICRA2020.JPG'>  
 
 
 
-Song Jingwei, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2018 (RAL-IROS option) [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/1803.02009)] [[Video](https://youtu.be/2pXokldQBWM)]    
+**Song Jingwei**, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2018 (RAL-IROS option) [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/1803.02009)] [[Video](https://youtu.be/2pXokldQBWM)]    
 <img width="400" src='/images/Paper_IROS2018.JPG'>  
 
 
-Song Jingwei, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2017 (RAL-IROS option) [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/2003.10867)] [[Video](https://youtu.be/2pXokldQBWM)]    
+**Song Jingwei**, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2017 (RAL-IROS option) [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/2003.10867)] [[Video](https://youtu.be/2pXokldQBWM)]    
 <img width="400" src='/images/Paper_IROS2017.JPG'>  
  
 
-Song Jingwei, Xia Shaobo, Wang Jun, Patel Mitesh and Chen Dong, Uncertainty Quantification of Hyperspectral Image Denoising Frameworks Based on Sliding-Window Low-Rank Matrix Approximation, in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-12, 2022, Art no. 5504212, doi: 10.1109/TGRS.2021.3065570. [[Paper]([https://ieeexplore.ieee.org/document/9386239))] [[Arxiv](https://arxiv.org/abs/2003.10867)]     
+**Song Jingwei**, Xia Shaobo, Wang Jun, Patel Mitesh and Chen Dong, Uncertainty Quantification of Hyperspectral Image Denoising Frameworks Based on Sliding-Window Low-Rank Matrix Approximation, in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-12, 2022, Art no. 5504212, doi: 10.1109/TGRS.2021.3065570. [[Paper]([https://ieeexplore.ieee.org/document/9386239))] [[Arxiv](https://arxiv.org/abs/2003.10867)]     
 <img width="400" src='/images/Paper_TGRS2021.jpg'>  
 
 
 
-Song Jingwei, Xia Shaobo, Wang Junand Chen Dong. Curved Buildings Reconstruction From Airborne LiDAR Data by Matching and Deforming Geometric Primitives, in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 2, pp. 1660-1674, Feb. 2021, doi: 10.1109/TGRS.2020.2995732. [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/pdf/2004.10959)]    
+**Song Jingwei**, Xia Shaobo, Wang Junand Chen Dong. Curved Buildings Reconstruction From Airborne LiDAR Data by Matching and Deforming Geometric Primitives, in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 2, pp. 1660-1674, Feb. 2021, doi: 10.1109/TGRS.2020.2995732. [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/pdf/2004.10959)]    
 <img width="400" src='/images/paper_TGRS2020.jpg'>  
 
 
- Wang Jun, Song Jingwei, Zhao Liang  and Huang Shoudong. A submap joining algorithm for 3d reconstruction using an rgb-d camera based on point and plane features[J]. Robotics and Autonomous Systems, 2019, 118: 93-111. [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889018302033)]     
+ Wang Jun, **Song Jingwei**, Zhao Liang  and Huang Shoudong. A submap joining algorithm for 3d reconstruction using an rgb-d camera based on point and plane features[J]. Robotics and Autonomous Systems, 2019, 118: 93-111. [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889018302033)]     
 <img width="400" src='/images/Paper_RAS2019.JPG'>  
 
 
