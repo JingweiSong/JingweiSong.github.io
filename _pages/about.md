@@ -14,7 +14,7 @@ Jingwei Song is a senior software enginner in United Imaging Research Institute 
 
 His research interests include computer vision, simultaneous localization and mapping, and robotics.
   
-Download: [CV](https://drive.google.com/file/d/1xKDyYXOymZGwYoExTRUHCXVpqKsnVi3b/view?usp=sharing)  
+Download: [CV](/files/Jingwei_CV.pdf)
 
 News
 ======
