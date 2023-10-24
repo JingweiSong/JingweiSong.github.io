@@ -78,12 +78,12 @@ Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and **Song Jingwei**
 <img width="400" src='/images/Paper_IROS2017.JPG'>  
  
 
-**Song Jingwei**, Xia Shaobo, Wang Jun, Patel Mitesh and Chen Dong, Uncertainty Quantification of Hyperspectral Image Denoising Frameworks Based on Sliding-Window Low-Rank Matrix Approximation, in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-12, 2022, Art no. 5504212, doi: 10.1109/TGRS.2021.3065570. [[Paper]([https://ieeexplore.ieee.org/document/9386239))] [[Arxiv](https://arxiv.org/abs/2003.10867)]     
+**Song Jingwei**, Xia Shaobo, Wang Jun, Patel Mitesh and Chen Dong, Uncertainty Quantification of Hyperspectral Image Denoising Frameworks Based on Sliding-Window Low-Rank Matrix Approximation, in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-12, 2022, Art no. 5504212, doi: 10.1109/TGRS.2021.3065570. [[Paper](https://ieeexplore.ieee.org/abstract/document/9386239/))] [[Arxiv](https://arxiv.org/abs/2004.10959)][[Code](https://JingweiSong@bitbucket.org/JingweiSong/uncertainty-estimationfor-hyperspectral-image-denoising.git)]       
 <img width="400" src='/images/Paper_TGRS2021.jpg'>  
 
 
 
-**Song Jingwei**, Xia Shaobo, Wang Junand Chen Dong. Curved Buildings Reconstruction From Airborne LiDAR Data by Matching and Deforming Geometric Primitives, in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 2, pp. 1660-1674, Feb. 2021, doi: 10.1109/TGRS.2020.2995732. [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/pdf/2004.10959)]    
+**Song Jingwei**, Xia Shaobo, Wang Junand Chen Dong. Curved Buildings Reconstruction From Airborne LiDAR Data by Matching and Deforming Geometric Primitives, in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 2, pp. 1660-1674, Feb. 2021, doi: 10.1109/TGRS.2020.2995732. [[Paper](https://ieeexplore.ieee.org/abstract/document/9110617))] [[Arxiv](https://arxiv.org/abs/2003.09934)]  
 <img width="400" src='/images/paper_TGRS2020.jpg'>  
 
 
