@@ -79,7 +79,7 @@ Song Jingwei, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. Dyna
  
 
 \textbf{Song Jingwei}, Xia Shaobo, Wang Jun, Patel Mitesh and Chen Dong, Uncertainty Quantification of Hyperspectral Image Denoising Frameworks Based on Sliding-Window Low-Rank Matrix Approximation, in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-12, 2022, Art no. 5504212, doi: 10.1109/TGRS.2021.3065570. [[Paper]([https://ieeexplore.ieee.org/document/9386239))] [[Arxiv](https://arxiv.org/abs/2003.10867)]     
-<img width="400" src='/images/paper_TGRS2021.JPG'>  
+<img width="400" src='/images/Paper_TGRS2021.jpg'>  
 
 \textbf{Song Jingwei}, Xia Shaobo, Wang Junand Chen Dong. Curved Buildings Reconstruction From Airborne LiDAR Data by Matching and Deforming Geometric Primitives, in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 2, pp. 1660-1674, Feb. 2021, doi: 10.1109/TGRS.2020.2995732. [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/pdf/2004.10959)]    
 <img width="400" src='/images/paper_TGRS2020.jpg'>  
