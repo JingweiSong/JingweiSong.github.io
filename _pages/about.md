@@ -74,7 +74,7 @@ Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and **Song Jingwei**
 <img width="400" src='/images/Paper_IROS2018.JPG'>  
 
 
-**Song Jingwei**, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2017 (RAL-IROS option) [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/2003.10867)] [[Video](https://youtu.be/2pXokldQBWM)]    
+**Song Jingwei**, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2017 (RAL-IROS option) [[Paper](https://ieeexplore.ieee.org/abstract/document/8000678/)] [[Arxiv](https://arxiv.org/abs/2003.10867)] [[Video](https://youtu.be/QL1uUHJDZ1E)]    
 <img width="400" src='/images/Paper_IROS2017.JPG'>  
  
 
