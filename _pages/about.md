@@ -39,12 +39,12 @@ News
 
 Selected research projects
 ---  
-For full publication list, please go to [CV](/files/Jingwei_CV.pdf) or the [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rf8d0o4AAAAJ&view_op=list_works&sortby=pubdate)  
-Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and Song Jingwei, Optical Flow-Based Vascular Respiratory Motion Compensation in IEEE Robotics and Automation Letters, vol. 8, no. 11, pp. 6987-6994, Nov. 2023, doi: 10.1109/LRA.2023.3313936. [Paper](https://ieeexplore.ieee.org/abstract/document/10246381)[Arxiv](https://arxiv.org/abs/2308.16451)[Video](https://youtu.be/9T_bU6NhZwg)  
+For full publication list, please go to [[CV](/files/Jingwei_CV.pdf)] or the [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rf8d0o4AAAAJ&view_op=list_works&sortby=pubdate)]  
+Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and Song Jingwei, Optical Flow-Based Vascular Respiratory Motion Compensation in IEEE Robotics and Automation Letters, vol. 8, no. 11, pp. 6987-6994, Nov. 2023, doi: 10.1109/LRA.2023.3313936. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2308.16451)] [[Video](https://youtu.be/9T_bU6NhZwg)]  
 <img width="200" src='/images/RAL2023.JPG'>  
 
 
-Song Jingwei, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani.  BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching, in IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1388-1406, April 2023. [Paper](https://ieeexplore.ieee.org/abstract/document/10246381) [Arxiv](https://arxiv.org/abs/2308.16451) [Video](https://youtu.be/MTurBOUDdB0) [Code](https://github.com/JingweiSong/BDIS)  
+Song Jingwei, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani.  BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching, in IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1388-1406, April 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2308.16451)] [[Video](https://youtu.be/MTurBOUDdB0)] [[Code](https://github.com/JingweiSong/BDIS)]  
 <img width="200" src='/images/Paper_TRO2022.JPG'>  
 
 
