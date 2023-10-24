@@ -72,38 +72,18 @@ Song Jingwei, Bai Fang, Zhao Liang, Huang Shoudong and Xiong Rong. Efficient two
 
 Song Jingwei, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2018 (RAL-IROS option) [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/1803.02009)] [[Video](https://youtu.be/2pXokldQBWM)]    
 <img width="400" src='/images/paper_IROS2018.JPG'>  
+
+
+Song Jingwei, Wang Jun, Zhao Liang , Huang Shoudong and Dissanayake Gamini. Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2017 (RAL-IROS option) [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/abs/2003.10867)] [[Video](https://youtu.be/2pXokldQBWM)]    
+<img width="400" src='/images/paper_IROS2018.JPG'>  
  
 
-Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery (Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang, Gamini Dissanayake)
- [Paper](https://arxiv.org/abs/2003.10867)  
-<img width="800" src='/images/paper_IROS2017.JPG'>  
-<iframe width="80" height = "50"   src="https://www.youtube.com/embed/QL1uUHJDZ1E " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
+\textbf{Song Jingwei}, Xia Shaobo, Wang Jun, Patel Mitesh and Chen Dong, Uncertainty Quantification of Hyperspectral Image Denoising Frameworks Based on Sliding-Window Low-Rank Matrix Approximation, in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-12, 2022, Art no. 5504212, doi: 10.1109/TGRS.2021.3065570. [[Paper]([https://ieeexplore.ieee.org/document/9386239))] [[Arxiv](https://arxiv.org/abs/2003.10867)]     
+<img width="400" src='/images/paper_TGRS2021.JPG'>  
 
----    
-Curved buildings reconstruction from airborne LiDAR data by matching and deforming geometric primitives (Jingwei Song, Shaobo Xia, Jun Wang, Dong Chen) [Paper](https://arxiv.org/pdf/2003.09934.pdf)  
-<img width="800" src='/images/paper_TGRS2020.jpg'>  
----  
-Uncertainty Quantification for Hyperspectral Image Denoising Frameworks based on Low-rank Matrix Approximation (Jingwei Song, Shaobo Xia, Jun Wang, Mitesh Patel, Dong Chen) [Paper](https://arxiv.org/abs/2004.10959)  
+\textbf{Song Jingwei}, Xia Shaobo, Wang Junand Chen Dong. Curved Buildings Reconstruction From Airborne LiDAR Data by Matching and Deforming Geometric Primitives, in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 2, pp. 1660-1674, Feb. 2021, doi: 10.1109/TGRS.2020.2995732. [[Paper](https://ieeexplore.ieee.org/document/9196930)] [[Arxiv](https://arxiv.org/pdf/2004.10959)]    
+<img width="400" src='/images/paper_TGRS2020.jpg'>  
 
----  
-A submap joining algorithm for 3d reconstruction using an rgb-d camera based on point and plane features (Jun Wang, Jingwei Song, Liang Zhao, Shoudong Huang, RongXiong) [Paper](https://doi.org/10.1016/j.robot.2019.05.002)  
---- 
-Convergence and consistency analysis for a 3-D invariant-EKF SLAM (Teng Zhang, Kanzhi Wu, Jingwei Song, Shoudong Huang, Gamini Dissanayake) [Paper](https://arxiv.org/abs/1702.06680)  
-
----  
-Road network extraction: A neural-dynamic framework based on deep learning and a finite state machine (Jun Wang,Jingwei Song,Mingquan Chen,Zhi Yang) [Paper](https://doi.org/10.1080/01431161.2015.1054049)  
-
----  
-Extraction and reconstruction of curved surface buildings by contour clustering using airborne LiDAR data (Jingwei Song,Jianwei Wu, Yongyao Jiang) [Paper](https://doi.org/10.1016/j.ijleo.2015.01.011)  
-
----  
-A multistep chaotic model for municipal solid waste generation prediction (Jingwei Song,Jiaying He) [Paper](https://www.liebertpub.com/doi/abs/10.1089/ees.2014.0031)  
-
----  
-An improved neural network for regional giant panda habitat suitability mapping: A case study in Ya’an prefecture (Jingwei Song,Xinyuan Wang,Ying Liao,Jing Zhen,Natarajan Ishwaran ,Huadong Guo,Ruixia Yang,Chuansheng Liu,Chun Chang,Xin Zong 1,2) [Paper](https://doi.org/10.3390/su6074059)  
-
----  
-An improved neural network for regional giant panda habitat suitability mapping: A case study in Ya’an prefecture (Jingwei Song,Xinyuan Wang,Ying Liao,Jing Zhen,Natarajan Ishwaran ,Huadong Guo,Ruixia Yang,Chuansheng Liu,Chun Chang,Xin Zong 1,2) [Paper](https://doi.org/10.3390/su6074059)  
 
 
 
