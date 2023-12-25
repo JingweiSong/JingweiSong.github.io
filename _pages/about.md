@@ -18,7 +18,7 @@ Download: [CV](/files/Jingwei_CV.pdf)
 
 News
 ======
-[Aug 2023] One paper accepted by IEEE Robotics and Automation Letters.  
+[Dec 2023] One paper accepted by IEEE Robotics and Automation Letters. One paper accepted by International Journal of Computer Assisted Radiology and Surgery.
 [Oct 2022] The long paper 'BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching' is published by IEEE Transactions on Robotics. It brief paper 'Bayesian Dense Inverse Searching Algorithm for Real-Time Stereo Matching in Minimally Invasive Surgery' is published by MICCAI (International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022)  
 [July 2022] I serve as a senior software engineer in United Imaging Research Institute of Intelligent Imaging, Beijing 100144, China  
 [May 2022] 1 paper accepted by IEEE Robotics and Automation Letters and 1 paper accepted by ICRA2022.  
