@@ -114,4 +114,4 @@ Wang Jun, **Song Jingwei**, Zhao Liang  and Huang Shoudong. A submap joining alg
 
 Contact
 ------
-Please contact me at email address: jingweisong.eng@outlook.com jingweisong@yahoo.com jingweso@umich.edu
+Please contact me at email address: jingweisong.eng@outlook.com jingweisong@yahoo.com
