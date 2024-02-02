@@ -41,8 +41,8 @@ News
 Selected research projects
 --- 
 For full publication list, please go to [[CV](/files/Jingwei_CV.pdf)] or the [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rf8d0o4AAAAJ&view_op=list_works&sortby=pubdate)]  
-**Song Jingwei**, Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao and Maani Ghaffari.  Iterative PnP and its application in 3D-2D vascular image registration for robot navigation, **January 2024**. [[Arxiv](https://arxiv.org/abs/2310.12551)] [[Video](https://youtu.be/6qXhhoKlSW4)] 
-<img width="400" src='/images/Paper_IJCARS2024.jpg'> 
+**Song Jingwei**, Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao and Maani Ghaffari.  Iterative PnP and its application in 3D-2D vascular image registration for robot navigation, 2024 IEEE International Conference on Robotics and Automation, **January 2024**. [[Arxiv](https://arxiv.org/abs/2310.12551)] [[Video](https://youtu.be/6qXhhoKlSW4)] 
+<img width="400" src='/images/Paper_ICRA2024.jpg'> 
 
 **Song Jingwei**, Ray Zhang, Qiuchen Zhu, Jianyu Lin and Maani Ghaffari.  BDIS-SLAM: A lightweight CPU-based dense stereo SLAM for surgery, in IEEE Transactions on Robotics,  International Journal of Computer Assisted Radiology and Surgery, **January 2024**. [[Paper](https://link.springer.com/article/10.1007/s11548-023-03055-1)] [[Arxiv](https://arxiv.org/abs/2312.15679)] [[Video](https://youtu.be/HEXy5n4nbU8)] [[Code](https://github.com/JingweiSong/BDIS-SLAM)]  
 <img width="400" src='/images/Paper_IJCARS2024.jpg'> 
