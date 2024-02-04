@@ -51,7 +51,7 @@ Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and **Song Jingwei**
 <img width="400" src='/images/RAL2023.JPG'>  
 
 
-**Song Jingwei**, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani.  BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching, in IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1388-1406 **(RAL)**, **April 2023**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2205.03133)] [[Video](https://youtu.be/MTurBOUDdB0)] [[Code](https://github.com/JingweiSong/BDIS-v2)]  
+**Song Jingwei**, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani.  BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching, in IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1388-1406 **(TRO)**, **April 2023**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2205.03133)] [[Video](https://youtu.be/MTurBOUDdB0)] [[Code](https://github.com/JingweiSong/BDIS-v2)]  
 <img width="400" src='/images/Paper_TRO2022.JPG'>  
 
 
