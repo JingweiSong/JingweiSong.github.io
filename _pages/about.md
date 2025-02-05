@@ -21,6 +21,7 @@ Download: [CV](/files/Jingwei_CV.pdf)
 
 News
 ======
+[Feb 2025] Two papers accepted by 2025 IEEE International Conference on Robotics and Automation (ICRA2025).  
 [Jan 2024] One paper accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA2024).  
 [Dec 2023] One paper accepted by IEEE Robotics and Automation Letters. One paper accepted by International Journal of Computer Assisted Radiology and Surgery.  
 [Oct 2022] The long paper 'BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching' is published by IEEE Transactions on Robotics. It brief paper 'Bayesian Dense Inverse Searching Algorithm for Real-Time Stereo Matching in Minimally Invasive Surgery' is published by MICCAI (International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022)  
