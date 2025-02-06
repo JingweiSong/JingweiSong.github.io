@@ -46,16 +46,16 @@ Selected research projects
 --- 
 For full publication list, please go to [[CV](/files/Jingwei_CV.pdf)] or the [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rf8d0o4AAAAJ&view_op=list_works&sortby=pubdate)]  
 
-**Song Jingwei**, Ray Zhang, Wenwei Zhang, Hao Zhou, Maani Ghaffari.  SLAM assisted 3D tracking system for laparoscopic surgery, **arxiv**, **September 2024**. [[Arxiv](https://arxiv.org/abs/2409.11688)] [[Video](https://youtu.be/B1xZW8bj3cM?si=X_RbFTuS0HRgGYZN)]  
+**Song Jingwei**, Ray Zhang, Wenwei Zhang, Hao Zhou, Maani Ghaffari.  SLAM assisted 3D tracking system for laparoscopic surgery, 2025 IEEE International Conference on Robotics and Automation **(ICRA2025)**, **May 2025**. [[Arxiv](https://arxiv.org/abs/2409.11688)] [[Video](https://youtu.be/B1xZW8bj3cM?si=X_RbFTuS0HRgGYZN)]  
 <img width="800" src='/images/Surg_SLAM.jpg'>  
 
-**Song Jingwei**, Keke Yang, Han Chen, Jiayi Liu, Yinan Gu, Qianxin Hui, Yanqi Huang, Meng Li, Zheng Zhang, Tuoyu Cao, Maani Ghaffari.  VascularPilot3D: Toward a 3D fully autonomous navigation for endovascular robotics, **arxiv**, **September 2024**. [[Arxiv](https://arxiv.org/abs/2405.09375)] [[Video](https://youtu.be/_8BvPwcVhHU?si=ifrsluQjpK_DcxKE)]  
+**Song Jingwei**, Keke Yang, Han Chen, Jiayi Liu, Yinan Gu, Qianxin Hui, Yanqi Huang, Meng Li, Zheng Zhang, Tuoyu Cao, Maani Ghaffari.  VascularPilot3D: Toward a 3D fully autonomous navigation for endovascular robotics, 2025 IEEE International Conference on Robotics and Automation **(ICRA2025)**, **May 2025**. [[Arxiv](https://arxiv.org/abs/2405.09375)] [[Video](https://youtu.be/_8BvPwcVhHU?si=ifrsluQjpK_DcxKE)]  
 <img width="800" src='/images/vascularpilot3d.jpg'>  
 
-**Song Jingwei**, Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao and Maani Ghaffari.  Iterative PnP and its application in 3D-2D vascular image registration for robot navigation, 2024 IEEE International Conference on Robotics and Automation **(ICRA2024)**, **May 2024**. [[Arxiv](https://arxiv.org/abs/2310.12551)] [[Video](https://youtu.be/6qXhhoKlSW4)]  
+**Song Jingwei**, Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao and Maani Ghaffari.  Iterative PnP and its application in 3D-2D vascular image registration for robot navigation, 2024 IEEE International Conference on Robotics and Automation **(ICRA2024)**, pp. 17560-17566, **May 2024**, doi: 10.1109/ICRA57147.2024.10610392. [[Paper](https://ieeexplore.ieee.org/abstract/document/10610392)] [[Arxiv](https://arxiv.org/abs/2310.12551)] [[Video](https://youtu.be/6qXhhoKlSW4)]  
 <img width="400" src='/images/Paper_ICRA2024.jpg'>  
 
-**Song Jingwei**, Ray Zhang, Qiuchen Zhu, Jianyu Lin and Maani Ghaffari.  BDIS-SLAM: A lightweight CPU-based dense stereo SLAM for surgery, in International Journal of Computer Assisted Radiology and Surgery **(IJCARS)**, **January 2024**. [[Paper](https://link.springer.com/article/10.1007/s11548-023-03055-1)] [[Arxiv](https://arxiv.org/abs/2312.15679)] [[Video](https://youtu.be/HEXy5n4nbU8)] [[Code](https://github.com/JingweiSong/BDIS-SLAM)]   
+**Song Jingwei**, Ray Zhang, Qiuchen Zhu, Jianyu Lin and Maani Ghaffari.  BDIS-SLAM: A lightweight CPU-based dense stereo SLAM for surgery, in International Journal of Computer Assisted Radiology and Surgery **(IJCARS)**, **January 2024**, doi: https://doi.org/10.1007/s11548-023-03055-1. [[Paper](https://link.springer.com/article/10.1007/s11548-023-03055-1)] [[Arxiv](https://arxiv.org/abs/2312.15679)] [[Video](https://youtu.be/HEXy5n4nbU8)] [[Code](https://github.com/JingweiSong/BDIS-SLAM)]   
 <img width="400" src='/images/Paper_IJCARS2024.jpg'>  
 
 Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and **Song Jingwei**, Optical Flow-Based Vascular Respiratory Motion Compensation in IEEE Robotics and Automation Letters, vol. 8, no. 11, pp. 6987-6994 **(RAL)**, **Nov. 2023**, doi: 10.1109/LRA.2023.3313936. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2308.16451)] [[Video](https://youtu.be/9T_bU6NhZwg)]  
