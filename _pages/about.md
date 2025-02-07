@@ -16,6 +16,8 @@ Jingwei Song is a senior software enginner in United Imaging Research Institute 
 Jingwei Song is a Research Associate with the Department of Naval Architecture and Marine Engineering, University of Michigan, Ann Arbor, MI, USA. He received the Ph.D. degree in center of autonomous system from the University of Technology Sydney, Ultimo, NSW, Australia, in 2020.  
 -->
 His research interests include computer vision, simultaneous localization and mapping, and robotics.
+
+我（宋经纬）为联影研究院（北京联影智能影像技术研究院）的资深软件算法工程师。博士于2020年毕业于悉尼科技大学机器人研究所。2020年到2022年在密歇根大学机器人研究所从事两年博士后研究。研究方向为同步定位与制图(SLAM)，机器人和计算机视觉。
   
 Download: [CV](/files/Jingwei_CV.pdf)
 
