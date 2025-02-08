@@ -17,7 +17,7 @@ Jingwei Song is a Research Associate with the Department of Naval Architecture a
 -->
 His research interests include computer vision, simultaneous localization and mapping, and robotics.
 
-我（宋经纬）为联影研究院（北京联影智能影像技术研究院）的资深软件算法工程师。博士于2020年毕业于悉尼科技大学机器人研究所。2020年到2022年在密歇根大学机器人研究所从事两年博士后研究。研究方向为同步定位与制图(SLAM)，机器人和计算机视觉。
+我（宋经纬）为联影研究院的资深软件算法工程师。2020年博士毕业于悉尼科技大学机器人研究所。2020年到2022年在密歇根大学机器人研究所从事两年博士后研究。研究方向为同步定位与制图(SLAM)，机器人和计算机视觉。
   
 Download: [CV](/files/Jingwei_CV.pdf)
 
