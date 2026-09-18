@@ -25,7 +25,6 @@ News
 ======
 **[Sep 2026]**  One paper accepted by IEEE Transactions on Medical Robotics and Bionics.  
 **[Sep 2026]**  One paper accepted by Robotics and Autonomous Systems.  
-**[Sep 2026]**  One paper accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.  
 **[Dec 2025]**  One paper accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.  
 **[Feb 2025]**  Two papers accepted by 2025 IEEE International Conference on Robotics and Automation (ICRA2025).  
 **[Jan 2024]**  One paper accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA2024).  
