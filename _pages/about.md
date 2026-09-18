@@ -23,6 +23,10 @@ Download: [CV](/files/Jingwei_CV.pdf)
 
 News
 ======
+[Sep 2026] One paper accepted by IEEE Transactions on Medical Robotics and Bionics.  
+[Sep 2026] One paper accepted by Robotics and Autonomous Systems.
+[Sep 2026] One paper accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.  
+[Dec 2025] One paper accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.  
 [Feb 2025] Two papers accepted by 2025 IEEE International Conference on Robotics and Automation (ICRA2025).  
 [Jan 2024] One paper accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA2024).  
 [Dec 2023] One paper accepted by IEEE Robotics and Automation Letters. One paper accepted by International Journal of Computer Assisted Radiology and Surgery.  
@@ -48,10 +52,19 @@ Selected research projects
 --- 
 For full publication list, please go to [[CV](/files/Jingwei_CV.pdf)] or the [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rf8d0o4AAAAJ&view_op=list_works&sortby=pubdate)]  
 
-**Song Jingwei**, Ray Zhang, Wenwei Zhang, Hao Zhou, Maani Ghaffari.  SLAM assisted 3D tracking system for laparoscopic surgery, 2025 IEEE International Conference on Robotics and Automation **(ICRA2025)**, **May 2025**. [[Arxiv](https://arxiv.org/abs/2409.11688)] [[Video](https://youtu.be/B1xZW8bj3cM?si=X_RbFTuS0HRgGYZN)]  
+**Song Jingwei**, Javid Hussain Jakir, Ray Zhang, Wenwei Zhang, Hao Zhou, Xiaomeng Xian and Maani Ghaffari.  LapaTrack-3D: 6 DoF pre-operative shape tracking for laparoscopic surgery, accepted by IEEE Transactions on Medical Robotics and Bionics **(T-MRB)**, **2026**. [[Arxiv](https://arxiv.org/abs/2609.19954)] [[Video](https://youtu.be/ZgidT4tyCPQ)]  
+<img width="800" src='/images/tmrb_2026.jpg'>  
+
+**Song Jingwei** and Maani Ghaffari.  DynaWeightPnP: Toward global real-time 3D-2D solver in PnP without correspondences, accepted by Robotics and Autonomous Systems **(RAS)**, **2026**. [[Arxiv](https://arxiv.org/abs/2409.18457)] [[Video](https://youtu.be/XXKSjhMn3z4)]  
+<img width="800" src='/images/ras_2026.jpg'>  
+
+Ray Zhang, **Song Jingwei**, Xiang Gao, Junzhe Wu, Tianyi Liu, Jinyuan Zhang, Ryan Eustice and Maani Ghaffari.  RKHS-BA: A Robust Correspondence-Free Multi-View Bundle Adjustment Framework for Semantic Point Clouds, in IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, vol. 47, no. 12, pp. 10882-10899, **December 2025**, doi: 10.1109/TPAMI.2025.3593521. [[Paper](https://ieeexplore.ieee.org/document/11106281)] [[Arxiv](https://arxiv.org/abs/2403.01254)] [[Video](https://drive.google.com/file/d/1GA-2eS9ZE28c4t0BafaiTUJT93WHbFvt/view)] [[Code](https://github.com/UMich-CURLY/RKHS_BA)]  
+<img width="400" src='/images/RKHS_BA.png'>  
+
+**Song Jingwei**, Ray Zhang, Wenwei Zhang, Hao Zhou, Maani Ghaffari.  SLAM assisted 3D tracking system for laparoscopic surgery, 2025 IEEE International Conference on Robotics and Automation **(ICRA2025)**, **May 2025**. [[Paper](https://ieeexplore.ieee.org/document/11127408)] [[Arxiv](https://arxiv.org/abs/2409.11688)] [[Video](https://youtu.be/B1xZW8bj3cM?si=X_RbFTuS0HRgGYZN)]  
 <img width="800" src='/images/Surg_SLAM.jpg'>  
 
-**Song Jingwei**, Keke Yang, Han Chen, Jiayi Liu, Yinan Gu, Qianxin Hui, Yanqi Huang, Meng Li, Zheng Zhang, Tuoyu Cao, Maani Ghaffari.  VascularPilot3D: Toward a 3D fully autonomous navigation for endovascular robotics, 2025 IEEE International Conference on Robotics and Automation **(ICRA2025)**, **May 2025**. [[Arxiv](https://arxiv.org/abs/2405.09375)] [[Video](https://youtu.be/_8BvPwcVhHU?si=ifrsluQjpK_DcxKE)]  
+**Song Jingwei**, Keke Yang, Han Chen, Jiayi Liu, Yinan Gu, Qianxin Hui, Yanqi Huang, Meng Li, Zheng Zhang, Tuoyu Cao, Maani Ghaffari.  VascularPilot3D: Toward a 3D fully autonomous navigation for endovascular robotics, 2025 IEEE International Conference on Robotics and Automation **(ICRA2025)**, **May 2025**. [[Paper](https://ieeexplore.ieee.org/document/11127370)] [[Arxiv](https://arxiv.org/abs/2405.09375)] [[Video](https://youtu.be/_8BvPwcVhHU?si=ifrsluQjpK_DcxKE)]  
 <img width="800" src='/images/vascularpilot3d.jpg'>  
 
 **Song Jingwei**, Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao and Maani Ghaffari.  Iterative PnP and its application in 3D-2D vascular image registration for robot navigation, 2024 IEEE International Conference on Robotics and Automation **(ICRA2024)**, pp. 17560-17566, **May 2024**, doi: 10.1109/ICRA57147.2024.10610392. [[Paper](https://ieeexplore.ieee.org/abstract/document/10610392)] [[Arxiv](https://arxiv.org/abs/2310.12551)] [[Video](https://youtu.be/6qXhhoKlSW4)]  
