@@ -51,10 +51,10 @@ Selected research projects
 ---
 For full publication list, please go to [[CV](/files/Jingwei_CV.pdf)] or the [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rf8d0o4AAAAJ&view_op=list_works&sortby=pubdate)]  
 
-**Song Jingwei**, Javid Hussain Jakir, Ray Zhang, Wenwei Zhang, Hao Zhou, Xiaomeng Xian and Maani Ghaffari.  LapaTrack-3D: 6 DoF pre-operative shape tracking for laparoscopic surgery, accepted by IEEE Transactions on Medical Robotics and Bionics **(T-MRB)**, **2026**. [[Paper](https://ieeexplore.ieee.org/document/11702791)] [[Arxiv](https://arxiv.org/abs/2609.19954)] [[Video](https://youtu.be/ZgidT4tyCPQ)]  
+**Song Jingwei**, Javid Hussain Jakir, Ray Zhang, Wenwei Zhang, Hao Zhou, Xiaomeng Xian and Maani Ghaffari.  LapaTrack-3D: 6 DoF pre-operative shape tracking for laparoscopic surgery, in IEEE Transactions on Medical Robotics and Bionics **(T-MRB)**, **2026** (early access). [[Paper](https://ieeexplore.ieee.org/document/11702791)] [[Arxiv](https://arxiv.org/abs/2609.19954)] [[Video](https://youtu.be/ZgidT4tyCPQ)]  
 <img width="800" src='/images/tmrb_2026.jpg'>  
 
-**Song Jingwei** and Maani Ghaffari.  DynaWeightPnP: Toward global real-time 3D-2D solver in PnP without correspondences, accepted by Robotics and Autonomous Systems **(RAS)**, **2026**. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889026004355)] [[Arxiv](https://arxiv.org/abs/2409.18457)] [[Video](https://youtu.be/XXKSjhMn3z4)]  
+**Song Jingwei** and Maani Ghaffari.  DynaWeightPnP: Toward global real-time 3D-2D solver in PnP without correspondences, in Robotics and Autonomous Systems **(RAS)**, **2026** (in press). [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889026004355)] [[Arxiv](https://arxiv.org/abs/2409.18457)] [[Video](https://youtu.be/XXKSjhMn3z4)]  
 <img width="800" src='/images/ras_2026.jpg'>  
 
 Ray Zhang, **Song Jingwei**, Xiang Gao, Junzhe Wu, Tianyi Liu, Jinyuan Zhang, Ryan Eustice and Maani Ghaffari.  RKHS-BA: A Robust Correspondence-Free Multi-View Bundle Adjustment Framework for Semantic Point Clouds, in IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, vol. 47, no. 12, pp. 10882-10899, **December 2025**, doi: 10.1109/TPAMI.2025.3593521. [[Paper](https://ieeexplore.ieee.org/document/11106281)] [[Arxiv](https://arxiv.org/abs/2403.01254)] [[Video](https://drive.google.com/file/d/1GA-2eS9ZE28c4t0BafaiTUJT93WHbFvt/view)] [[Code](https://github.com/UMich-CURLY/RKHS_BA)]  
