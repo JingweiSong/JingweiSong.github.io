@@ -23,22 +23,22 @@ Download: [CV](/files/Jingwei_CV.pdf)
 
 News
 ======
-**[Sep 2026]**  One paper accepted by IEEE Transactions on Medical Robotics and Bionics.  
-**[Sep 2026]**  One paper accepted by Robotics and Autonomous Systems.  
-**[Dec 2025]**  One paper accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence.  
-**[Feb 2025]**  Two papers accepted by 2025 IEEE International Conference on Robotics and Automation (ICRA2025).  
-**[Jan 2024]**  One paper accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA2024).  
-**[Dec 2023]**  One paper accepted by IEEE Robotics and Automation Letters. One paper accepted by International Journal of Computer Assisted Radiology and Surgery.  
-**[Oct 2022]**  The long paper 'BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching' is published by IEEE Transactions on Robotics. A brief paper 'Bayesian Dense Inverse Searching Algorithm for Real-Time Stereo Matching in Minimally Invasive Surgery' is published by MICCAI (International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022)  
+**[Sep 2026]**  One paper accepted by IEEE Transactions on Medical Robotics and Bionics **(T-MRB)**.  
+**[Sep 2026]**  One paper accepted by Robotics and Autonomous Systems **(RAS)**.  
+**[Dec 2025]**  One paper accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**.  
+**[Feb 2025]**  Two papers accepted by 2025 IEEE International Conference on Robotics and Automation **(ICRA2025)**.  
+**[Jan 2024]**  One paper accepted by 2024 IEEE International Conference on Robotics and Automation **(ICRA2024)**.  
+**[Dec 2023]**  One paper accepted by IEEE Robotics and Automation Letters **(RAL)**. One paper accepted by International Journal of Computer Assisted Radiology and Surgery **(IJCARS)**.  
+**[Oct 2022]**  The long paper 'BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching' is published by IEEE Transactions on Robotics **(TRO)**. A brief paper 'Bayesian Dense Inverse Searching Algorithm for Real-Time Stereo Matching in Minimally Invasive Surgery' is published by MICCAI **(International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022)**  
 **[July 2022]**  I serve as a senior software engineer in United Imaging Research Institute of Intelligent Imaging, Beijing 100144, China  
-**[May 2022]**  1 paper accepted by IEEE Robotics and Automation Letters and 1 paper accepted by ICRA2022.  
-**[July 2021]**  The paper ‘J Song, M Patel, A Girgensohn, C Kim. “Combining Deep Learning with Geometric Features for Image based Localization in the Gastrointestinal Tract.” has been accepted by Expert systems and applications (Q1 journal) for publication  
+**[May 2022]**  1 paper accepted by IEEE Robotics and Automation Letters **(RAL)** and 1 paper accepted by **ICRA2022**.  
+**[July 2021]**  The paper ‘J Song, M Patel, A Girgensohn, C Kim. “Combining Deep Learning with Geometric Features for Image based Localization in the Gastrointestinal Tract.” has been accepted by Expert systems and applications **(EWSA)** (Q1 journal) for publication  
 **[July 2020]**  I serve as the research associate in A/Prof.  Maani Ghaffari‘s lab (Computational Autonomy and Robotics Laboratory) for 2 years.  
 **[June 2019]**  I will work with Dr. Mitesh Patel in lab FXPALfor 6 months.  
-**[June 2018]**  Our paper ‘MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing’ has been accepted by IEEE/RSJ IEEE Robotics and Automation Letters (RAL with IROS option). I will attend IROS held in Madrid in 1-5 Oct. Media link  
+**[June 2018]**  Our paper ‘MIS-SLAM: Real-time Large Scale Dense Deformable SLAM System in Minimal Invasive Surgery Based on Heterogeneous Computing’ has been accepted by IEEE/RSJ IEEE Robotics and Automation Letters **(RAL-IROS 2018 option)**. I will attend IROS held in Madrid in 1-5 Oct. Media link  
 **[15 June 2018]**  I have won first prize of the showcase competition in FEIT (Faculty of Engineering and Information Technology, UTS).  
 **[August 2017]**  I’m awarded IROS Travel Award funded by the IEEE Robotics and Automation Society!  
-**[July 2017]**  Our IROS accepted paper “Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang and Gamini Dissanayake. Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. ” is accepted by IEEE/RSJ IEEE Robotics and Automation Letters (RAL with IROS option)  
+**[July 2017]**  Our IROS accepted paper “Jingwei Song, Jun Wang, Liang Zhao, Shoudong Huang and Gamini Dissanayake. Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. ” is accepted by IEEE/RSJ IEEE Robotics and Automation Letters **(RAL-IROS 2017 option)**  
 **[June 2017]**  Have a wonderful journey to (Computer Assisted Radiology and  Surgery 2017) Barcelona and (Hamlyn Symposium on Medical Robot 2017) London. Meet lots of nice scholars and friends.  I was listed in CARS2017 daily news CARS 2017 Daily News  
 **[15 June 2017]**  I have won second prize of the showcase competition. Thank you Shoudong, Liang, Karthick, Jun, Cedric, Teresa for your very helpful suggestions  Research Showcase  
 **[15 June 2017]**  Our paper “Jingwei Song, Jun Wang, Zhao Liang, Shoudong Huang and Gamini Dissanayake. Dynamic Reconstruction of Deformable Soft-tissue with Stereo Scope in Minimal Invasive Surgery. ” is accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems, 2017 (IROS2017)  
