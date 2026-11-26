@@ -79,7 +79,7 @@ Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and **Song Jingwei**
 <img width="400" src='/images/RAL2023.JPG'>  
 
 Our team won the First Prize in the China·Haidian High-Value Patent Cultivation Competition (中国·海淀高价值专利培育大赛) with the patented technology of this work.  
-<img width="300" src='/images/haigaosai_1.jpg'> <img width="300" src='/images/haigaosai_2.jpg'>  
+<img width="225" src='/images/haigaosai_1.jpg'> <img width="400" src='/images/haigaosai_2.jpg'>  
 
 
 **Song Jingwei**, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani.  BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching, in IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1388-1406 **(TRO)**, **April 2023**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2205.03133)] [[Video](https://youtu.be/MTurBOUDdB0)] [[Code](https://github.com/JingweiSong/BDIS-v2)]  
