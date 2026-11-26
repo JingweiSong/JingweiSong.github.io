@@ -23,6 +23,7 @@ Download: [CV](/files/Jingwei_CV.pdf)
 
 News
 ======
+**[Nov 2026]**  We won the First Prize in the China·Haidian High-Value Patent Cultivation Competition (中国·海淀高价值专利培育大赛). [[Related paper](#optical_flow_ral2023)]  
 **[Sep 2026]**  One paper accepted by IEEE Transactions on Medical Robotics and Bionics **(T-MRB)**.  
 **[Sep 2026]**  One paper accepted by Robotics and Autonomous Systems **(RAS)**.  
 **[Dec 2025]**  One paper accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**.  
@@ -72,8 +73,13 @@ Ray Zhang, **Song Jingwei**, Xiang Gao, Junzhe Wu, Tianyi Liu, Jinyuan Zhang, Ry
 **Song Jingwei**, Ray Zhang, Qiuchen Zhu, Jianyu Lin and Maani Ghaffari.  BDIS-SLAM: A lightweight CPU-based dense stereo SLAM for surgery, in International Journal of Computer Assisted Radiology and Surgery **(IJCARS)**, **January 2024**, doi: https://doi.org/10.1007/s11548-023-03055-1. [[Paper](https://link.springer.com/article/10.1007/s11548-023-03055-1)] [[Arxiv](https://arxiv.org/abs/2312.15679)] [[Video](https://youtu.be/HEXy5n4nbU8)] [[Code](https://github.com/JingweiSong/BDIS-SLAM)]   
 <img width="400" src='/images/Paper_IJCARS2024.jpg'>  
 
+<a id="optical_flow_ral2023"></a>
+
 Keke Yang, Zheng Zhang, Meng Li, Tuoyu Cao, Maani Ghaffari, and **Song Jingwei**, Optical Flow-Based Vascular Respiratory Motion Compensation in IEEE Robotics and Automation Letters, vol. 8, no. 11, pp. 6987-6994 **(RAL)**, **Nov. 2023**, doi: 10.1109/LRA.2023.3313936. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2308.16451)] [[Video](https://youtu.be/9T_bU6NhZwg)]  
 <img width="400" src='/images/RAL2023.JPG'>  
+
+Our team won the First Prize in the China·Haidian High-Value Patent Cultivation Competition (中国·海淀高价值专利培育大赛) with the patented technology of this work.  
+<img width="400" src='/images/haigaosai_1.jpg'> <img width="400" src='/images/haigaosai_2.jpg'>  
 
 
 **Song Jingwei**, Zhu Qiuchen, Lin Jianyu and Ghaffari Maani.  BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching, in IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1388-1406 **(TRO)**, **April 2023**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10246381)] [[Arxiv](https://arxiv.org/abs/2205.03133)] [[Video](https://youtu.be/MTurBOUDdB0)] [[Code](https://github.com/JingweiSong/BDIS-v2)]  
